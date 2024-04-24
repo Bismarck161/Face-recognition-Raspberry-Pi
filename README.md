@@ -17,3 +17,5 @@ sudo pip3 install picamera
 pip3 install face-recognition
 
 reboot after that
+
+The Pictures that are used for should not be bigger than 460x620 Pixels
